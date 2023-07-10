@@ -67,3 +67,91 @@ line-height: normal;
 
 /* hero-area-style-end */
 
+
+
+/* bonus-mark-area-style-start */
+
+.bonus-area-container{
+    padding:300px;
+}
+
+/* bonus-mark-area-style-end */
+
+
+
+
+/* hot-deal-section-start */
+
+
+.hot-deal-section-container{
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    padding:50px;
+}
+
+
+.hot-deal-texts{
+    padding:200px 100px 200px 300px;
+  
+    
+}
+
+
+.hot-deal-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 30px;
+}
+
+#red-color-off{
+    color:#E55473
+}
+
+.hot-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+.hot-deal-button{
+  text-align: center;
+}
+
+
+.hot-deal-call-to-action{
+    border-radius: 5px;
+    background: #E55473;
+    border:none;
+    padding:15px 25px;
+
+}
+
+.hot-deal-call-to-action a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.hot-deal-img{
+    width: 400px;
+    padding-top: 50px;
+    padding-right: 250px;
+    
+}
+
+
+/* hot-deal-section-end */
