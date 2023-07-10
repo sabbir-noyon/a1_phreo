@@ -155,3 +155,25 @@ line-height: normal;
 
 
 /* hot-deal-section-end */
+
+
+
+/* instagram-area-start */
+
+
+.instagram-area-container{
+    padding:300px;
+    background-color: #FFF;
+}
+
+
+
+.instagram-area-images{
+    display: flex;
+   
+}
+
+.instagram-image{
+    margin: 10px;
+    width: 300px;
+}
