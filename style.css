@@ -162,18 +162,45 @@ line-height: normal;
 
 
 .instagram-area-container{
-    padding:300px;
+    padding:100px 300px;
     background-color: #FFF;
 }
 
+.instagram-area-texts{
+    padding: 0px 300px;
+}
 
+.instagram-area-title{
+    color: #272727;
+    text-align: center;
+
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 30px;
+}
+
+.instagram-area-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 30px;
+    }
 
 .instagram-area-images{
     display: flex;
    
 }
-
 .instagram-image{
     margin: 10px;
     width: 300px;
 }
+
+
+/* instagram-area-end */
+
