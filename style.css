@@ -77,7 +77,7 @@ line-height: normal;
 
 
 .bonus-area-texts{
-padding: 100px 650px 0px 650px;
+padding: 100px 650px 50px 650px;
 }
 
 .bonus-area-title{
@@ -140,11 +140,45 @@ line-height: normal;
     height: 471px;
     padding: 10px 30px 0px 30px;
    
-
 }
 
 
+.anchor-areas{
+  
+  display: flex;
+  justify-content: center;
 
+  align-items: center;
+  
+
+  
+    
+}
+.anchor{
+    margin: -350px 50px 0px 50px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+
+}
+
+.anchor a{
+    color: #272727; 
+}
+
+#p1{
+    padding-right: 100px;
+}
+
+#p2{
+    
+    padding-right: 70px;
+}
+
+#p3{
+    padding-left: 40px;
+}
 
 
 
