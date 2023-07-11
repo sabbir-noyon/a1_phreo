@@ -72,8 +72,83 @@ line-height: normal;
 /* bonus-mark-area-style-start */
 
 .bonus-area-container{
-    padding:300px;
+  /*padding:300px;*/
 }
+
+
+.bonus-area-texts{
+padding: 100px 650px 0px 650px;
+}
+
+.bonus-area-title{
+ 
+color: #272727;
+text-align: center;
+
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.bonus-area-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+.bonus-area-images{
+  text-align: center;
+  padding-bottom: 200px;
+ 
+    
+
+}
+
+.bonus-image-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 310px;
+    height: 428px;
+    margin-right: 15px;
+    padding: 40px 30px 0px 30px;
+    
+
+}
+
+
+.bonus-image-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 370px;
+    height: 370px;
+    margin-right: 15px;
+    padding-top: 100px;
+   
+ 
+}
+
+
+.bonus-image-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 314px;
+    height: 471px;
+    padding: 10px 30px 0px 30px;
+   
+
+}
+
+
+
+
+
+
+
 
 /* bonus-mark-area-style-end */
 
