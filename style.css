@@ -5,6 +5,68 @@
     
 }
 
+
+
+.navigation-container{
+    display: flex;
+    background-color: #111010;
+}
+
+
+.navigation{
+    width: 80%;
+    
+}
+
+
+.shop-title{
+
+color: #E55473;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+
+.navigation ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navigation ul li{
+    padding: 40px;
+    
+}
+
+.navigation ul a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* hero-area-style-start */
 
 
